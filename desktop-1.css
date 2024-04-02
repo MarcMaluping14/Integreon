@@ -1,0 +1,102 @@
+.desktop-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(1.27deg, #a4b7db, #6e92d7);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 1024px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 166px;
+  left: 850px;
+  width: 516px;
+  height: 817px;
+  object-fit: cover;
+}
+.marc,
+.website {
+  margin: 0;
+}
+.marcreation-website {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 449px;
+}
+.a-home-page,
+.a-particular-theme,
+.a-web-address,
+.a-website-is-a,
+.and-managed-by,
+.its-opening-page,
+.of-files-accessed,
+.person-or-organization {
+  margin: 0;
+}
+.a-website-is-a-container {
+  position: absolute;
+  top: 288px;
+  left: 12px;
+  font-size: 36px;
+  font-weight: 500;
+}
+.texts {
+  position: absolute;
+  top: 265px;
+  left: 190px;
+  width: 682px;
+  height: 672px;
+  font-size: 96px;
+  color: var(--color-black);
+}
+.marcreations-high-resolution-l-icon {
+  position: absolute;
+  top: 39px;
+  left: 79px;
+  width: 285px;
+  height: 49px;
+  object-fit: cover;
+}
+.skills {
+  position: absolute;
+  top: 30px;
+  left: 572px;
+  font-weight: 500;
+  display: inline-block;
+  width: 194px;
+}
+.experiences {
+  left: 786px;
+  display: inline-block;
+  width: 333px;
+}
+.about-me,
+.experiences,
+.home {
+  position: absolute;
+  top: 31px;
+  font-weight: 500;
+}
+.home {
+  left: 416px;
+  display: inline-block;
+  width: 136px;
+}
+.about-me {
+  left: 1148px;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: #4d7dd8;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-jetbrains-mono);
+}

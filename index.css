@@ -1,0 +1,372 @@
+.logo-integreon-1-icon {
+  height: 121px;
+  width: 353px;
+  position: absolute;
+  margin: 0 !important;
+  top: -12px;
+  left: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-child {
+  align-self: stretch;
+  height: 1310px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+}
+.contact-us,
+.integreonmanilaintegreoncom,
+.p {
+  margin: 0;
+}
+.contact-us-integreonmanilai-container {
+  height: 85px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.contact-us-integreonmanilai-wrapper {
+  width: 389px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-item {
+  height: 54px;
+  width: 1358px;
+  position: relative;
+  background-color: var(--color-steelblue-100);
+  display: none;
+  max-width: 100%;
+}
+.wwwintegreoncom {
+  width: 243px;
+  position: relative;
+  font-weight: 800;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.frame-parent,
+.rectangle-group {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.rectangle-group {
+  background-color: var(--color-steelblue-100);
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 15px var(--padding-xl) 14px;
+  box-sizing: border-box;
+  z-index: 1;
+  color: var(--color-white);
+}
+.frame-parent {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+  text-align: right;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.neque-porro-quisquam,
+.quia-dolor-sit {
+  margin: 0;
+}
+.neque-porro-quisquam-container {
+  margin: 0;
+  width: 1179px;
+  height: 149px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.quisque-pellentesque-mi {
+  margin: 0;
+  font-size: var(--font-size-19xl);
+  font-weight: 800;
+}
+.quisque-pellentesque-mi1 {
+  margin: 0;
+  font-weight: 500;
+}
+.blank-line {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 800;
+}
+.fermentum-morbi-mollis,
+.praesent-egestas-erat {
+  margin: 0;
+  font-weight: 500;
+}
+.quisque-pellentesque-mi-container {
+  align-self: stretch;
+  height: 657px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.read-more {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-inter);
+  color: var(--color-snow);
+  text-align: center;
+}
+.quisque-pellentesque-mi-orci-parent,
+.readmore-button {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.readmore-button {
+  cursor: pointer;
+  border: 2px solid var(--color-snow);
+  padding: 10px var(--padding-6xl);
+  background-color: var(--color-steelblue-100);
+  width: 201px;
+  box-sizing: border-box;
+  flex-direction: row;
+  white-space: nowrap;
+  z-index: 1;
+}
+.readmore-button:hover {
+  background-color: #4285c2;
+  border: 2px solid #e6e3e3;
+  box-sizing: border-box;
+}
+.quisque-pellentesque-mi-orci-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-15xl);
+  max-width: 100%;
+}
+.rightimage-box {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 33px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.marie-bernadette-ariete {
+  width: 541px;
+  height: 32px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  font-weight: 200;
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rightimage-box-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 88px;
+  min-width: 470px;
+  max-width: 100%;
+}
+.right-image-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.right-image-1-wrapper {
+  height: 926px;
+  width: 555px;
+  flex-direction: column;
+  padding: 13px 0 0;
+  box-sizing: border-box;
+  min-width: 555px;
+}
+.frame-group,
+.neque-porro-quisquam-est-qui-d-parent,
+.right-image-1-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-group {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-12xs);
+  font-size: var(--font-size-9xl);
+}
+.neque-porro-quisquam-est-qui-d-parent {
+  flex: 1;
+  flex-direction: column;
+}
+.quisque-main {
+  width: 1337px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 29px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.logo-integreon-1-parent,
+.rectangle-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent {
+  flex: 1;
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 5px 0 38px;
+  box-sizing: border-box;
+  gap: var(--gap-15xl);
+  text-align: left;
+  font-size: 48px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.logo-integreon-1-parent {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  position: relative;
+}
+.frame-inner {
+  align-self: stretch;
+  height: 58px;
+  position: relative;
+  background-color: #4d4b4b;
+}
+.nullam-placerat-diam-a-libero {
+  margin: 0;
+}
+.blank-line1 {
+  margin: 0;
+  font-weight: 200;
+}
+.cum-sociis-natoque,
+.integer-nec-facilisis,
+.nulla-auctor-porta,
+.p1,
+.p2,
+.p3,
+.pellentesque-eget-nibh {
+  margin: 0;
+}
+.nullam-placerat-diam-container {
+  align-self: stretch;
+  height: 374px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  font-family: var(--font-inter);
+}
+.desktop-11,
+.rectangle-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.rectangle-container {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 22px;
+}
+.desktop-11 {
+  width: 100%;
+  position: relative;
+  background-color: #ebebeb;
+  overflow: hidden;
+  align-items: flex-end;
+  padding: 55px 40px var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-12xs);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .quisque-pellentesque-mi-orci-parent {
+    flex: 1;
+  }
+  .right-image-1-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .right-image-1-wrapper {
+    flex: 1;
+  }
+  .frame-group {
+    flex-wrap: wrap;
+  }
+  .rectangle-parent {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .neque-porro-quisquam-container {
+    font-size: var(--font-size-19xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .quisque-pellentesque-mi-orci-parent {
+    gap: 17px 34px;
+  }
+  .rightimage-box-parent {
+    gap: 44px 88px;
+    min-width: 100%;
+  }
+  .right-image-1-wrapper {
+    min-width: 100%;
+  }
+  .rectangle-parent {
+    gap: 17px 34px;
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .neque-porro-quisquam-container {
+    font-size: 29px;
+  }
+  .quisque-pellentesque-mi-container {
+    font-size: 22px;
+  }
+  .rightimage-box-parent {
+    gap: 22px 88px;
+  }
+}
