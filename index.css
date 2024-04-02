@@ -69,7 +69,6 @@
   box-sizing: border-box;
   z-index: 1;
   color: var(--color-white);
-  float: right;
 }
 .frame-parent {
   flex-direction: column;
@@ -230,7 +229,7 @@
   flex-direction: column;
 }
 .quisque-main {
-  width: 1337px;
+  width: 1800px;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
