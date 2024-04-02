@@ -69,6 +69,7 @@
   box-sizing: border-box;
   z-index: 1;
   color: var(--color-white);
+  float: right;
 }
 .frame-parent {
   flex-direction: column;
